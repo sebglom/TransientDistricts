@@ -1,4 +1,4 @@
-﻿  //________________________________________________________________________________//
+  //________________________________________________________________________________//
   // TransiEnt Library, version: 2.0.2  development version               		                    //
   //                                                                                //
   // Licensed by Hamburg University of Technology under the 3-BSD-clause.           //
